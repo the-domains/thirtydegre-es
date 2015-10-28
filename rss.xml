@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[thirtydegre.es]]></title>
         <description><![CDATA[thirtydegre.es]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/thirtydegre-es/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 28 Oct 2015 10:00:58 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 28 Oct 2015 10:01:55 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/thirtydegre-es/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Getting Started on The Grid]]></title>
+            <description><![CDATA[<article><h1>Getting Started on The Grid</h1><p>Click the pencil icon in the bottom left to read more...</p><img src="https://d33v4339jhl8k0.cloudfront.net/docs/assets/54dd53ebe4b086c0c0966e7a/images/5616ac809033602f2d9baebd/file-t8c0VXJ6mq.gif"></article>]]></description>
+            <link>https://thegrid.ai/thirtydegre-es/getting-started-on-the-grid/index.html</link>
+            <guid isPermaLink="false">0b05f9c4-9f0f-43c8-92be-7f7d81b52f79</guid>
+            <pubDate>Wed, 28 Oct 2015 10:00:51 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Representation and the News: Corey Delaney]]></title>
             <description><![CDATA[<h1>Representation and the News: Corey Delaney</h1>]]></description>
-            <link>undefinedrepresentation-and-the-news-corey-delaney/index.html</link>
+            <link>https://thegrid.ai/thirtydegre-es/representation-and-the-news-corey-delaney/index.html</link>
             <guid isPermaLink="false">6a36a8e5-fbc8-4dd0-98e2-953930e2768c</guid>
             <pubDate>Wed, 28 Oct 2015 10:00:51 GMT</pubDate>
         </item>
